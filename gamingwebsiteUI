@@ -1,0 +1,3 @@
+cd "C:\Users\Sajjad Bin Ali\Desktop\samplewebsite1\gaming-website"
+git remote add origin https://github.com/<your-username>/sample-gaming-website-ui-design.git
+git push -u origin main
